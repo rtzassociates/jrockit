@@ -1,0 +1,14 @@
+<patch_information version="1.0">
+  <primary_bug_id>13524619</primary_bug_id>
+  <patch_id>13524619</patch_id>
+  <aru_platform>Linux x86-64</aru_platform>
+  <product_version>6 Update 29 R28.2.2</product_version>
+  <product_name>Oracle JRockit</product_name>
+  <aru_product_version></aru_product_version>
+  <aru_product_name>Oracle JRockit</aru_product_name>
+  <primary_bug_description>jdk160 oracle jrockit r28.2.2</primary_bug_description>
+  <bug_ids>
+    <bug>13257740</bug>
+    <bug>13076167</bug>
+  </bug_ids>
+</patch_information>
